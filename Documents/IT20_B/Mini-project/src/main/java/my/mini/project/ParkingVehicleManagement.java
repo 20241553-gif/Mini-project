@@ -6,7 +6,7 @@ import javax.swing.*;
 import javax.swing.table.DefaultTableModel;
 import java.awt.*;   
 
-public class ParingVehicleManagement extends JFrame{
+public class ParkingVehicleManagement extends JFrame{
     static class VehicleNode {
         String plateNumber;
         String vehicleType;
